@@ -1,0 +1,25 @@
+{
+	"changeLogs": {
+		"BDFDB": "1.5.0",
+		"CreationDate": "1.4.1",
+		"EditUsers": "4.1.6",
+		"JoinedAtDate": "1.2.6",
+		"LastMessageDate": "1.2.1",
+		"SendLargeMessages": "1.6.6",
+		"ShowHiddenChannels": "2.9.3",
+		"SpotifyControls": "1.1.1"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"settings": {
+		"showSupportBadges": true,
+		"showToasts": true,
+		"useChromium": false
+	}
+}
